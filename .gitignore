@@ -1,0 +1,5 @@
+# Applying GitIgnore rules to the following directories:
+#       git rm -r --cached .
+
+vk_video/
+vulkan/
